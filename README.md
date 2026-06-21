@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Jacob Mwambene</h1>
 
 <h3 align="center">
-A passionate developer from Tanzania. I'm documenting and sharing my development journey—building, collaborating, and refining skills to become a high-impact engineer in a rapidly evolving tech landscape.
+A passionate developer from Tanzania. I'm documenting and sharing my development journey, building, collaborating, and refining skills to become a high-impact engineer in a rapidly evolving tech landscape.
 </h3>
 
 ---
