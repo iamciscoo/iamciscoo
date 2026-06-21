@@ -9,18 +9,21 @@ A passionate developer from Tanzania. I'm documenting and sharing my development
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/iamcisco__" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" />
-</a>
-<a href="https://www.linkedin.com/in/francis-jacob-611a49289/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
-</a>
-<a href="https://instagram.com/i.amcisco" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" />
-</a>
-<a href="https://www.leetcode.com/iamcisco" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" />
-</a>
+  <a href="https://twitter.com/iamcisco__" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/francis-jacob-611a49289/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/i.amcisco" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/iamcisco" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" alt="LeetCode" />
+  </a>
 </p>
 
 ---
@@ -28,37 +31,26 @@ A passionate developer from Tanzania. I'm documenting and sharing my development
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://docs.amplify.aws/assets/logo-dark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nativescript.svg" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30"/>
-<img src="https://reactnative.dev/img/header_logo.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30"/>
+  <img src="https://docs.amplify.aws/assets/logo-dark.svg" height="30" alt="AWS Amplify" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="Figma" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="Google Cloud" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="30" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="30" alt="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30" alt="Zapier" />
 </p>
