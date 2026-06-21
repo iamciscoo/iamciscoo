@@ -31,12 +31,9 @@ A passionate developer from Tanzania. I'm documenting and sharing my development
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://docs.amplify.aws/assets/logo-dark.svg" height="30" alt="AWS Amplify" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="Bash" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="Figma" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="Google Cloud" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="HTML5" />
@@ -52,5 +49,4 @@ A passionate developer from Tanzania. I'm documenting and sharing my development
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="Spring" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="30" alt="Zapier" />
 </p>
